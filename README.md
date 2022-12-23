@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Tatertotyumm
+- 👀 I’m interested in FTC Robotics
+- 🌱 I’m currently learning Java
+- 💞️ I’m looking to collaborate on FTC On Bot Java & Android Studio projects
+- 📫 How to reach me th.ftc.22@gmail.com
